@@ -3,4 +3,8 @@ To teach fresher about git and its features
 <br>
 Author Prashant gadhiya
 <br>
-Contact: prashantgadhiya@gmail.com
+Contact: 
+<br>
+prashantgadhiya@gmail.com
+<br>
+https://www.linkedin.com/in/prashant-cyber-security-engineer/
